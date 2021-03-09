@@ -24,6 +24,6 @@ toast :-
 
 todo/strikethrough :- 
 
-dark mode :-
+dark mode :- https://rgrdz.csb.app/
 
-out of stock (grey) :- https://rgrdz.csb.app/
+out of stock (grey) :- 
