@@ -18,7 +18,7 @@ designer tool (small figma) :- https://mfmkl.csb.app/
 
 add to cart :- 
 
-switch tabs :-
+switch tabs :- https://nxywh.csb.app/
 
 toast :-
 
