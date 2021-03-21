@@ -16,7 +16,7 @@ show password :- https://mfmkl.csb.app/
 
 designer tool (small figma) :- https://mfmkl.csb.app/
 
-add to cart :- 
+add to cart :- https://1uxzm.csb.app/
 
 switch tabs :- https://nxywh.csb.app/
 
